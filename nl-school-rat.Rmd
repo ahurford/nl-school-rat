@@ -1,0 +1,20 @@
+---
+title: "Newfoundland and Labrador School Rapid Anitgen Testing"
+author: "Amy Hurford"
+output:
+  html_document: default
+  word_document: default
+  pdf_document: default
+fontsize: 11pt
+---
+[Memorial University of Newfoundland and Labrador,](https://www.mun.ca/math/)
+[Canadian Network for Modelling Infectious Disease,](https://canmod.net/)
+[Mathematics for Public Health,](http://www.fields.utoronto.ca/activities/public-health)
+[One Health Modelling Network for Emerging Infections](https://www.yorku.ca/science/cdm/2021/04/09/ccdm-network-to-model-emerging-infectious-diseases-receives-2-5-million-in-federal-funding/)
+
+
+<div class="alert alert-info">
+
+THO
+
+</div>
