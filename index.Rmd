@@ -1,20 +1,99 @@
 ---
-title: "Newfoundland and Labrador School Rapid Anitgen Testing"
-author: "Amy Hurford"
+subtitle: "School Rapid Anitgen Testing"
+title: "Newfoundland and Labrador"
 output:
   html_document: default
   word_document: default
   pdf_document: default
-fontsize: 11pt
+fontsize: 12pt
 ---
-[Memorial University of Newfoundland and Labrador,](https://www.mun.ca/math/)
-[Canadian Network for Modelling Infectious Disease,](https://canmod.net/)
-[Mathematics for Public Health,](http://www.fields.utoronto.ca/activities/public-health)
-[One Health Modelling Network for Emerging Infections](https://www.yorku.ca/science/cdm/2021/04/09/ccdm-network-to-model-emerging-infectious-diseases-receives-2-5-million-in-federal-funding/)
 
+
+
+\
 
 <div class="alert alert-info">
+**Volunteering to be an Ambassador**
 
-THO
+The success of this study depends on strong and diverse community participation. If you work at a school or are a community leader and would like to support this initiative please email: XXXXX
+
 
 </div>
+<font size = 3>**RESULTS SUBMISSION PORTAL**</font size>
+\
+<div class="alert alert-info">
+**Submission of your test results is voluntary**
+
+- Submitting your household's Rapid Antigen Test (RAT) results supports a research initiative (described below)
+- Your submission is anonymous and non-identifiable.
+- The survey will take less than 5 minutes to complete.
+
+\
+<u>Eligibility</u>: At least one member of your household attends elementary, middle, or high school in Newfoundland and Labrador (one submission per household for both January 21 and 24). 
+\
+\
+
+<font size="3"> <font color="coral"> **CLICK HERE to submit your household's rapid antigen test results** </font size> </font color>
+
+_The survey will open on January 24 - February 7, given Health Research Ethics Approval, and if the Government of Newfoundland and Labrador does not provide an alternative submission portal._
+
+</div>
+
+## {}
+
+### What will you be asked for?
+
+The survey will ask you to provide:
+
+1. the first 3 digits of your area code;
+
+1. Regional Health Authority;
+
+1. For both January 21 and 24, the number of:
+
++ elementary and middle school students in your household that tested negative;
+
++ elementary and middle school students in your household that tested positive (symptoms/no symptoms);
+
++ high school students in your household that tested negative;
+
++ high school students in your household that tested positive (symptoms/no symptoms);
+
+3. to rate your confidence in successfully administering the test.
+
+### What is the purpose of this study?
+
+The study aims to estimate COVID-19 point prevalence on January 21 and 24 for school-aged children. This age group has not be widely-tested in Canada during the Omicron wave as some provinces have restricted PCR testing to only to individuals older than 65 or 70.
+
+Additionally, we will:
+- estimate the proportion of asymptomatic cases for school-aged children infected with the Omicron variant;
+- evaluate the under-ascertainment when only cases reported through PCR testing are considered;
+- estimate the change in infection prevalence between the two sample dates;
+
+### How will results be reported?
+Results submission will end on February 7th. Before February 10 we will report the following results to this website:
+
+- number of household submissions from each Regional Health Authority;
+- percent positivity for each Regional Health Authority;
+- percent positivity for elementary and middle schools (combined) and high schools;
+- 
+
+The results will be most informative if a large number of households from many different regions submit their data. If you are outside St. John's and would consider being an ambassador, please contact us (see the top of the page). 
+
+### How is your privacy protected?
+No information that can identify your household is submitted. You submit the first 3 digits of your postal code and if the students in your household attend high school or middle school and elementary school. The results released publicly on this website will be at the regional health authority and s No data will be reported where there are fewer than 10 positive cases. 
+
+### Can I report the school?
+No. The purpose of this study is to estimate infection in the population of school-aged children. The school that students' attend cannot be reported. 
+
+### Why do we not use an existing COVID-19 tracker?
+This submission portal ensures security and anonymity. The results of this research will be reported on this website.
+
+### Can teachers and administrators submit their results?
+No. Teachers and administrators are a small proportion of people in their age group. Collecting data from teachers and administrators will not be sufficient to estimate infection prevalence in their age group.
+
+### Why are elementary and middle school combined?
+Pediatric vaccinations are defined as those under 5-12 years, which for many students corresponds to attendance at elementary and middle school. 
+
+### Should I share this initiative on my social media?
+Yes! The success of this study depends on strong community participation.
