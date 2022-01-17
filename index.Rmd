@@ -24,7 +24,7 @@ Reasons to support this study are:
 
 - <u>Have a voice:</u> participants are asked to rate their confidence in successfully administering the test;
 
-- <u>Research:</u> those who submit their data are supporting a research initiative (see [**here**](#research)).
+- <u>Research:</u> those who submit their data are supporting a research study (see [**here**](#research)).
 
 Volunteers may contribute by: displaying posters in workplaces, businesses, or school bus windows; providing translation support; answering questions; sharing information on social media; writing emails and connecting with communities; and may be required to attend a short training session. For a list of volunteers and supporters (see [**here**](#volunteers)).
 
@@ -91,10 +91,10 @@ Results submission will end on February 7. Before February 10, we will report th
 - number of household submissions from each Regional Health Authority;
 - percent positivity for each Regional Health Authority;
 - percent positivity for elementary/middle schools and high schools;
-- the proportion of positive test results that were reported as asymptomatic;
+- percent positive test results reported as asymptomatic;
 - average confidence in administering the test on January 21 and 24.
 
-Results will be most informative if a large number of households from many regions submit their data. If you would like to volunteer please [contact us](#contact). 
+Results will be most informative if a large number of households from many regions submit their results. If you would like to volunteer please [contact us](#contact). 
 
 #### How is your privacy protected?
 No information that can identify your household is submitted. You submit the first 3 digits of your postal code and if the students in your household attend elementary/middle school or high school. The results released publicly on this website will be at the Regional Health Authority and elementary/middle school or high school levels. No data will be reported where there are fewer than 10 positive cases. 
@@ -103,13 +103,13 @@ No information that can identify your household is submitted. You submit the fir
 No. The purpose of this study is to estimate infection in the population of school-aged children. The school that students' attend cannot be reported. 
 
 #### Why do we not use an existing COVID-19 tracker?
-This submission portal ensures security and anonymity, and is specific for rapid antigen test use for school students on Jan 21 and 24. Results will be reported at the same url as the submission portal. This maximizes the chance that participants see the results.
+This submission portal ensures security and anonymity, and is specific for rapid antigen test use for school students on January 21 and 24. Results will be reported at the same url as the submission portal. This maximizes the chance that participants see the results.
 
 #### Can teachers and administrators submit their results?
 No. Teachers and administrators are a small proportion of people in their age group. Collecting data from teachers and administrators will not be sufficient to estimate infection prevalence in their age group.
 
 #### Why are elementary and middle school combined?
-Pediatric vaccinations are for 5-12 years, which for many students corresponds to elementary and middle school. Contact matrices used in mathematical modelling consider age ranges spanning multiple years, such that it is not necessary to consider middle school separately. 
+Pediatric vaccinations are for 5-12 year olds, which for many students corresponds to elementary and middle school. Contact matrices used in mathematical models consider age ranges spanning multiple years such that it is not necessary to consider middle school separately. 
 
 #### Should I share this initiative on my social media?
 Yes! The success of this study depends on strong community participation.
