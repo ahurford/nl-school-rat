@@ -81,8 +81,11 @@ Additionally, we will:
 
 - estimate the proportion of asymptomatic cases for school-aged children infected with the Omicron variant;
 
-- evaluate case reporting accuracy when only PCR test results are available.
+- evaluate case reporting accuracy when only PCR test results are available;
 
+- evaluate the geographic distribution of cases;
+
+- use these data to parameterize mathematical models.
 
 ### How will results be reported?
 Results submission will end on February 7th. Before February 10th, we will report the following to this website:
@@ -90,6 +93,7 @@ Results submission will end on February 7th. Before February 10th, we will repor
 - number of household submissions from each Regional Health Authority;
 - percent positivity for each Regional Health Authority;
 - percent positivity for elementary/middle schools and high schools;
+- the proportion of positive test results that were reported as asymptomatic;
 - average reported confidence in administering the test on each of January 21 and 24.
 
 Results will be most informative if a large number of households from many different regions submit their data. If you would like to volunteer please [contact us](#contact). 
