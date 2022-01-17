@@ -13,29 +13,29 @@ fontsize: 12pt
 \
 
 ## {}
-### Volunteers and supporters
+### Volunteers and supporters {#contact}
 
 This study relies on strong and diverse community participation. Social media, email, advertising, and word-of-mouth is needed to reach households with school students. If you would like to volunteer or support this initiative please email: XXXXX
 
 Reasons to support this study are:
 
-- Adds value: students have already completed these rapid antigen tests. Supporting this initiative adds value as test results can be aggregated and summary statistics can be communicated to Newfoundlanders and Labradorians;
+- Adds value: students have already completed these rapid antigen tests. Supporting this initiative adds value as test results can be aggregated and summary statistics communicated to Newfoundlanders and Labradorians;
 
-- Community-building: those who submit their results help Newfoundlanders and Labradorians understand COVID-19 prevalence in the community;
+- Community-building: those who submit results help Newfoundlanders and Labradorians understand COVID-19 prevalence in the school-aged community;
 
-- Have a voice: participants are asked to rate their confidence in successfully administering the test.
+- Have a voice: participants are asked to rate their confidence in successfully administering the test;
 
-- Research: data will be used in research as see [**here**](#research).
+- Research: those who submit their data are supporting a research initiative (see [**here**](#research)).
 
-Volunteers may contribute by displaying posters in workplaces and businesses, in school bus windows, providing translation support, answering questions, sharing information on social media, or connecting with communities and may be required to attend a short training session. See [**here**](#volunteers) for a list of volunteers and supporters.
+Volunteers may contribute by: displaying posters in workplaces, businesses, or school bus windows; providing translation support; answering questions; sharing information on social media; writing emails and connecting with communities; and may be required to attend a short training session. For a list of volunteers and supporters (see [**here**](#volunteers)).
 
 <font size = 3>**RESULTS SUBMISSION PORTAL**</font size>
 \
 <div class="alert alert-info">
 **Submission of your test results is voluntary**
 
-- Submitting your household's Rapid Antigen Test (RAT) results supports a research initiative (described below)
-- Your submission is anonymous and non-identifiable.
+- Submitting your household's Rapid Antigen Test (RAT) results supports a research initiative (see [**here**](#research))
+- Your submission is anonymous and you cannot be identified from the information submitted.
 - The survey will take less than 5 minutes to complete.
 
 \
@@ -47,7 +47,7 @@ Volunteers may contribute by displaying posters in workplaces and businesses, in
 
 \
 
-The survey will open on January 24 - February 7, given Health Research Ethics Approval, and if the Government of Newfoundland and Labrador does not provide an alternative submission portal.
+The survey will open January 24 - February 7, given Health Research Ethics Approval, and if the Government of Newfoundland and Labrador does not provide an alternative submission portal.
 </div>
 
 
@@ -63,9 +63,9 @@ The survey will ask you to provide:
 
 1. For both January 21 and 24, the number of:
 
-+ elementary and middle school students in your household that tested negative;
++ elementary/middle school students in your household that tested negative;
 
-+ elementary and middle school students in your household that tested positive (symptoms/no symptoms);
++ elementary/middle school students in your household that tested positive (symptoms/no symptoms);
 
 + high school students in your household that tested negative;
 
@@ -75,40 +75,39 @@ The survey will ask you to provide:
 
 ### What is the purpose of this study?
 
-The study aims to estimate COVID-19 point prevalence on January 21 and 24 for school-aged children. This age group has not be widely-tested in Canada during the Omicron wave as some provinces have restricted PCR testing to only to individuals older than 65 or 70.
+The study aims to estimate COVID-19 prevalence on January 21 and 24 for school-aged children. This age group has not been widely-tested in Canada during the Omicron wave as some provinces have restricted PCR testing to only individuals older than 65 or 70.
 
 Additionally, we will:
 
 - estimate the proportion of asymptomatic cases for school-aged children infected with the Omicron variant;
 
-- evaluate the under-ascertainment when only cases reported through PCR testing are considered;
+- evaluate case reporting accuracy when only PCR test results are available.
 
-- estimate the change in infection prevalence between the two sample dates;
 
 ### How will results be reported?
-Results submission will end on February 7th. Before February 10 we will report the following results to this website:
+Results submission will end on February 7th. Before February 10th, we will report the following to this website:
 
 - number of household submissions from each Regional Health Authority;
 - percent positivity for each Regional Health Authority;
-- percent positivity for elementary and middle schools (combined) and high schools;
+- percent positivity for elementary/middle schools and high schools;
 - average reported confidence in administering the test on each of January 21 and 24.
 
-The results will be most informative if a large number of households from many different regions submit their data. If you would like to volunteer please contact us (see the top of the page). 
+Results will be most informative if a large number of households from many different regions submit their data. If you would like to volunteer please [contact us](#contact). 
 
 ### How is your privacy protected?
-No information that can identify your household is submitted. You submit the first 3 digits of your postal code and if the students in your household attend high school or middle school and elementary school. The results released publicly on this website will be at the regional health authority and s No data will be reported where there are fewer than 10 positive cases. 
+No information that can identify your household is submitted. You submit the first 3 digits of your postal code and if the students in your household attend elementary/middle school or high school. The results released publicly on this website will be at the Regional Health Authority and elementary/middle school or high school levels. No data will be reported where there are fewer than 10 positive cases. 
 
 ### Can I report the school?
 No. The purpose of this study is to estimate infection in the population of school-aged children. The school that students' attend cannot be reported. 
 
 ### Why do we not use an existing COVID-19 tracker?
-This submission portal ensures security and anonymity. The results of this research will be reported on this website.
+This submission portal ensures security and anonymity. Results will be reported at the same url as the submission portal. This maximizes that chances that results can be disseminated to participants.
 
 ### Can teachers and administrators submit their results?
 No. Teachers and administrators are a small proportion of people in their age group. Collecting data from teachers and administrators will not be sufficient to estimate infection prevalence in their age group.
 
 ### Why are elementary and middle school combined?
-Pediatric vaccinations are defined as those under 5-12 years, which for many students corresponds to attendance at elementary and middle school. Contact matrices that are used in mathematical modelling consider age ranges spanning multiple years. 
+Pediatric vaccinations are for 5-12 years, which for many students corresponds to elementary and middle school. Contact matrices that are used in mathematical modelling consider age ranges spanning multiple years, such that it is not necessary to consider middle school separately. 
 
 ### Should I share this initiative on my social media?
 Yes! The success of this study depends on strong community participation.
