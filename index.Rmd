@@ -37,7 +37,7 @@ The survey will open January 24 - February 7, given Health Research Ethics Appro
 
 ### Volunteers and supporters {#contact}
 
-This study relies on strong and diverse community participation. Social media, email, advertising, and word-of-mouth is needed to reach households with school students. If you would like to volunteer or support this study please email: XXXXX
+This study relies on strong and diverse community participation. Social media, email, advertising, and word-of-mouth is needed to reach households with school students. If you would like to volunteer or support this study please email: ahurford@mun.ca (with Subject: School rapid antigen tests).
 
 Reasons to support this study are:
 
@@ -85,7 +85,7 @@ Additionally, we will:
 
 - evaluate the geographic distribution of cases;
 
-- use these data to parameterize mathematical models.
+- use these data to parameterize mathematical models that inform public health policy.
 
 #### How will results be reported to participants?
 Results submission will end on February 7. Before February 10, we will report the following to this website:
