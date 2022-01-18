@@ -45,8 +45,6 @@ Reasons to support this study are:
 
 - <u>Community-building:</u> those who submit results help Newfoundlanders and Labradorians understand COVID-19  in the school-aged community;
 
-- <u>Have a voice:</u> participants are asked to rate their confidence in successfully administering the test;
-
 - <u>Research:</u> those who submit their data are supporting a research study (see [**here**](#research)).
 
 Volunteers may contribute by: displaying posters in workplaces, businesses, or school bus windows; providing translation support; answering questions; sharing information on social media; writing emails and connecting with communities; and may be required to attend a short training session. For a list of volunteers and supporters (see [**here**](#volunteers)).
@@ -71,8 +69,6 @@ The survey will ask you to provide:
 
 + high school students in your household that tested positive (symptoms/no symptoms);
 
-3. to rate your confidence in successfully administering the test on January 21 and 24.
-
 #### What is the purpose of this study?
 
 The study aims to estimate COVID-19 prevalence on January 21 and 24 for school-aged children. This age group has not been widely-tested in Canada during the Omicron wave as some provinces have restricted PCR testing to only individuals older than 65 or 70.
@@ -94,7 +90,6 @@ Results submission will end on February 7. Before February 10, we will report th
 - percent positivity for each Regional Health Authority;
 - percent positivity for elementary/middle schools and high schools;
 - percent positive test results reported as asymptomatic;
-- average confidence in administering the test on January 21 and 24.
 
 Results will be most informative if a large number of households from many regions submit their results. If you would like to volunteer please [contact us](#contact). 
 
