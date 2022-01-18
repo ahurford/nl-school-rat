@@ -1,5 +1,5 @@
 ---
-subtitle: "School Rapid Anitgen Testing"
+subtitle: "School Rapid Antigen Testing"
 title: "Newfoundland and Labrador"
 output:
   html_document: default
@@ -12,21 +12,6 @@ fontsize: 12pt
 \
 
 ## {}
-### Volunteers and supporters {#contact}
-
-This study relies on strong and diverse community participation. Social media, email, advertising, and word-of-mouth is needed to reach households with school students. If you would like to volunteer or support this study please email: XXXXX
-
-Reasons to support this study are:
-
-- <u>Adds value:</u> students have already completed these rapid antigen tests. Aiding results submission adds value as test results can be combined and communicated to Newfoundlanders and Labradorians;
-
-- <u>Community-building:</u> those who submit results help Newfoundlanders and Labradorians understand COVID-19  in the school-aged community;
-
-- <u>Have a voice:</u> participants are asked to rate their confidence in successfully administering the test;
-
-- <u>Research:</u> those who submit their data are supporting a research study (see [**here**](#research)).
-
-Volunteers may contribute by: displaying posters in workplaces, businesses, or school bus windows; providing translation support; answering questions; sharing information on social media; writing emails and connecting with communities; and may be required to attend a short training session. For a list of volunteers and supporters (see [**here**](#volunteers)).
 
 <div class="alert alert-info">
 **Submission of your test results is voluntary**
@@ -49,6 +34,23 @@ The survey will open January 24 - February 7, given Health Research Ethics Appro
 
 
 ## {}
+
+### Volunteers and supporters {#contact}
+
+This study relies on strong and diverse community participation. Social media, email, advertising, and word-of-mouth is needed to reach households with school students. If you would like to volunteer or support this study please email: XXXXX
+
+Reasons to support this study are:
+
+- <u>Adds value:</u> students have already completed these rapid antigen tests. Aiding results submission adds value as test results can be combined and communicated to Newfoundlanders and Labradorians;
+
+- <u>Community-building:</u> those who submit results help Newfoundlanders and Labradorians understand COVID-19  in the school-aged community;
+
+- <u>Have a voice:</u> participants are asked to rate their confidence in successfully administering the test;
+
+- <u>Research:</u> those who submit their data are supporting a research study (see [**here**](#research)).
+
+Volunteers may contribute by: displaying posters in workplaces, businesses, or school bus windows; providing translation support; answering questions; sharing information on social media; writing emails and connecting with communities; and may be required to attend a short training session. For a list of volunteers and supporters (see [**here**](#volunteers)).
+
 
 ### Questions
 #### What will you be asked for?
@@ -114,5 +116,5 @@ Pediatric vaccinations are for 5-12 year olds, which for many students correspon
 #### Should I share this initiative on my social media?
 Yes! The success of this study depends on strong community participation.
 
-#### Potential supporters and volunteers {#volunteers}
-Memorial University: the Faculties of Science, Medicine, and Education, the Harris Centre, Grenfell Campus, and the Labrador Institute. The Newfoundland and Labrador Teachers Association.
+#### Supports and volunteers {#volunteers}
+Memorial University: the Faculties of Science and Education.
