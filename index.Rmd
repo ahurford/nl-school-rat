@@ -21,7 +21,7 @@ fontsize: 12pt
 - The survey will take less than 5 minutes to complete.
 
 \
-<u>Eligibility</u>: At least one member of your household attends elementary, middle, or high school in Newfoundland and Labrador (one submission per household for both January 21 and 24). 
+<u>Eligibility</u>: At least one member of your household attends elementary, middle, or high school in Newfoundland and Labrador (one submission per household for both January 22 and 25). 
 
 \
 
@@ -29,7 +29,7 @@ fontsize: 12pt
 
 \
 
-The survey will open January 24 - February 7, given Health Research Ethics Approval, and if the Government of Newfoundland and Labrador does not provide an alternative submission portal.
+The survey will open January 25 - February 8, given Health Research Ethics Approval, and if the Government of Newfoundland and Labrador does not provide an alternative submission portal.
 </div>
 
 
@@ -59,7 +59,7 @@ The survey will ask you to provide:
 
 1. Regional Health Authority;
 
-1. For both January 21 and 24, the number of:
+1. For both January 22 and 25, the number of:
 
 + elementary/middle school students in your household that tested negative;
 
@@ -71,7 +71,7 @@ The survey will ask you to provide:
 
 #### What is the purpose of this study?
 
-The study aims to estimate COVID-19 prevalence on January 21 and 24 for school-aged children. This age group has not been widely-tested in Canada during the Omicron wave as some provinces have restricted PCR testing to only individuals older than 65 or 70.
+The study aims to estimate COVID-19 prevalence on January 22 and 25 for school-aged children. This age group has not been widely-tested in Canada during the Omicron wave as some provinces have restricted PCR testing to only individuals older than 70.
 
 Additionally, we will:
 
@@ -84,7 +84,7 @@ Additionally, we will:
 - use these data to parameterize mathematical models that inform public health policy.
 
 #### How will results be reported to participants?
-Results submission will end on February 7. Before February 10, we will report the following to this website:
+Results submission will end on February 8. Before February 11, we will report the following to this website:
 
 - number of household submissions from each Regional Health Authority;
 - percent positivity for each Regional Health Authority;
@@ -100,7 +100,7 @@ No information that can identify your household is submitted. You submit the fir
 No. The purpose of this study is to estimate infection in the population of school-aged children. The school that students' attend cannot be reported. 
 
 #### Why do we not use an existing COVID-19 tracker?
-This submission portal ensures security and anonymity, and is specific for rapid antigen test use for school students on January 21 and 24. Results will be reported at the same url as the submission portal. This maximizes the chance that participants see the results.
+This submission portal ensures security and anonymity, and is specific for rapid antigen test use for school students on January 22 and 25. Results will be reported at the same url as the submission portal. This maximizes the chance that participants see the results.
 
 #### Can teachers and administrators submit their results?
 No. Teachers and administrators are a small proportion of people in their age group. Collecting data from teachers and administrators will not be sufficient to estimate infection prevalence in their age group.
