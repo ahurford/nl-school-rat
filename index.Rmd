@@ -37,7 +37,7 @@ The survey will open January 25 - February 8, given Health Research Ethics Appro
 
 ### Volunteers and supporters {#contact}
 
-This study relies on strong and diverse community participation. Social media, email, advertising, and word-of-mouth is needed to reach households with school students. If you would like to volunteer or support this study please email: ahurford@mun.ca (with Subject: School rapid antigen tests).
+This study relies on strong and diverse community participation. Social media, email, advertising, and word-of-mouth is needed to reach households with school students.
 
 Reasons to support this study are:
 
@@ -47,7 +47,7 @@ Reasons to support this study are:
 
 - <u>Research:</u> those who submit their data are supporting a research study (see [**here**](#research)).
 
-Volunteers may contribute by: displaying posters in workplaces, businesses, or school bus windows; providing translation support; answering questions; sharing information on social media; writing emails and connecting with communities; and may be required to attend a short training session. For a list of volunteers and supporters (see [**here**](#volunteers)).
+Volunteers may contribute by: displaying posters in workplaces, businesses, or school bus windows; providing translation support; answering questions; sharing information on social media; writing emails and connecting with communities; and may be required to attend a short training session. For a list of volunteers and supporters (see [**here**](#volunteers)). If you are able to be involved in the study design and analysis please email Dr. Amy Hurford.
 
 
 ### Questions
@@ -55,7 +55,7 @@ Volunteers may contribute by: displaying posters in workplaces, businesses, or s
 
 The survey will ask you to provide:
 
-1. the first 3 digits of your area code;
+1. the first 3 digits of your postal code (i.e., A1A);
 
 1. Regional Health Authority;
 
