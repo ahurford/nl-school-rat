@@ -7,36 +7,47 @@ output:
 fontsize: 12pt
 ---
 
-```{r doublingtime, echo=FALSE, out.width="5%", purl=FALSE}
+```{r doublingtime, echo=FALSE, out.width="10%", purl=FALSE}
 knitr::include_graphics("mun.jpg")
 ```
 
-TITLE: Submission portal for Rapid Antigen Tests completed January 22 and/or 25	by K-12 students in Newfoundland and Labrador
+<b>TITLE:</b> Submission portal for Rapid Antigen Tests completed January 22 and/or 25	by K-12 students in Newfoundland and Labrador
 
-RESEARCHER: Dr. Amy Hurford
+<b>RESEARCHER:</b> Dr. Amy Hurford
 
 
 You have been invited to take part in a research study.  Taking part in this study is voluntary.  You may choose to take part or you may choose not to take part in this study.  You also may change your mind at any time
 
 ## {}
 
+**1. Why am I being asked to join this study?**
+
+You are being invited to join this study because the government of Newfoundland and Labrador encouraged K-12 students to [complete two rapid antigen tests](https://www.gov.nl.ca/covid-19/schools-children/school-rapid-testing-program/) prior to returning to school. This study applies to the parents and guardians of K-12 student(s) that completed at least one rapid antigen test on January 22 and/or 25. This study is being done to record the results of these tests. These data will be: (1) reported back to the public (number of submission and % positive results); and (2) used in research to estimate infection prevalence and inform public health recommendations.
+
+**2. How many people will take part in this study?**
+
+[59,452 K-12 student(s) were eligible to return to school](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-return-to-school-jan-2022-1.6325652) on January 25. Only one survey is to be completed per household. We expect between 2,000-8,000 households to submit their rapid antigen test results.
+
+**3. How long does it take to complete the survey?**
+
+The survey takes approximately 5 minutes to complete.
+
+**4. What will happen if I take part in this study?**
+
+The survey asks 5 questions:
+
+- Do you consent to participate in the research study?
+
+1. Enter the first 3-digits of your postal code, i.e. A1A
+2. 
+
+
 <div class="alert alert-info">
-**Submission of your test results is voluntary**
+<font size="3"> <font color="black"> <center> **To consent to participate in research and submit your household's rapid antigen test results**
 
-- Submitting your household's Rapid Antigen Test (RAT) results supports a research initiative (see [**here**](#research))
-- Your submission is anonymous and you cannot be identified from the information submitted.
-- The survey will take less than 5 minutes to complete.
+**CLICK HERE**</center>
 
-\
-<u>Eligibility</u>: At least one member of your household attends elementary, middle, or high school in Newfoundland and Labrador (one submission per household for both January 22 and 25). 
-
-\
-
-|              <font size="3"> <font color="black"> **CLICK HERE to submit your household's rapid antigen test results** </font size> </font color>
-
-\
-
-The survey will open January 25 - February 8, given Health Research Ethics Approval, and if the Government of Newfoundland and Labrador does not provide an alternative submission portal.
+</font size> </font color>
 </div>
 
 
