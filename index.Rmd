@@ -1,15 +1,20 @@
 ---
-subtitle: "School Rapid Antigen Testing"
-title: "Newfoundland and Labrador"
+title: "CONSENT TO TAKE PART IN RESEARCH"
 output:
   html_document: default
   word_document: default
   pdf_document: default
 fontsize: 12pt
 ---
-<font size = 4>**RESULTS SUBMISSION PORTAL**</font size>
 
-\
+
+
+TITLE: Submission portal for Rapid Antigen Tests completed January 22 and/or 25	by K-12 students in Newfoundland and Labrador
+
+RESEARCHER: Dr. Amy Hurford
+
+
+You have been invited to take part in a research study.  Taking part in this study is voluntary.  You may choose to take part or you may choose not to take part in this study.  You also may change your mind at any time
 
 ## {}
 
