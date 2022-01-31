@@ -15,6 +15,7 @@ knitr::include_graphics("mun.jpg")
 
 <b>RESEARCHER:</b> Dr. Amy Hurford
 
+## {}
 
 You have been invited to take part in a research study.  Taking part in this study is voluntary.  You may choose to take part or you may choose not to take part in this study.  You also may change your mind at any time
 
@@ -26,7 +27,7 @@ You are being invited to join this study because the government of Newfoundland 
 
 **2. How many people will take part in this study?**
 
-[59,452 K-12 student(s) were eligible to return to school](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-return-to-school-jan-2022-1.6325652) on January 25. Only one survey is to be completed per household. We expect between 2,000-8,000 households to submit their rapid antigen test results.
+59,452 K-12 student(s) were eligible to [return to school](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-return-to-school-jan-2022-1.6325652) on January 25. Only one survey is to be completed per household. We expect between 2,000-8,000 households to submit their rapid antigen test results.
 
 **3. How long does it take to complete the survey?**
 
@@ -34,12 +35,42 @@ The survey takes approximately 5 minutes to complete.
 
 **4. What will happen if I take part in this study?**
 
-The survey asks 5 questions:
+If you consent to participate in the research study you will be asked 4 questions as described in 9.
 
-- Do you consent to participate in the research study?
+**5. Are there risks to taking part in this study?**
 
-1. Enter the first 3-digits of your postal code, i.e. A1A
-2. 
+You may feel fear or anxiety in reporting the rapid antigen test results of the K-12 students in your household. If the identity of individuals reporting positive results is revealed, these individuals may be stigmatized. To minimize these risks participants are asked only to provide the first 3 digits of their postal code and the data will be securely stored.
+
+**6.	What are the possible benefits of participating in this study?**
+
+- <u>Adds value:</u> K-12 students have already completed these rapid antigen tests. Providing your results allows for the test data to not be lost. Test results can be combined at the Health Regional Authority level and communicated to Newfoundlanders and Labradorians;
+
+- <u>Community-building:</u> Those who submit results help Newfoundlanders and Labradorians understand COVID-19 in the school-aged community;
+
+- <u>Research:</u> These data will be used in research to estimate: infection prevalence and the percentage of asymptomatic cases in K-12 students on January 22 and 25; under-estimation of infection prevalence when only PCR test results are considered; and in mathematical modelling to inform public health policy recommendations.
+
+**7. If I decide to take part in this study, can I stop later**
+
+After consenting to participate in the study you are not required to complete or submit it. After submission your answers cannot be withdrawn as it is not possible to identify your submission.
+
+**8.	What are my rights when participating in a research study?**
+
+You have the right to receive all information that could help you make a decision about participating in this study. You also have the right to ask questions about this study at any time and to have them answered to your satisfaction. Your rights to privacy are legally protected by federal and provincial laws that require safeguards to ensure that your privacy is respected. You have the right to be informed of the results of this study once the entire study is complete. Results will be reported at this url before February 15, 2022.
+
+**9. What about my privacy and confidentiality?**
+
+Protecting your privacy is an important part of this study.  If you decide to participate in this study, the researchers will collect and use only the information they need for this study, including:
+
+- The first three digits of your postal code;
+- Your regional health authority;
+- Results of the rapid antigen tests completed by K-12 students in your household on January 22 and 25;
+- Level of school for the test results reported (elementary/middle school or high school).
+
+**10. What about questions or problems?**
+
+If you have any questions about taking part in this study, you can meet with the principal investigator who is in charge of the study.  That person is: Dr. Amy Hurford, 709-864-8301.
+
+Or you can talk to someone who is not involved with the study at all, but can advise you on your rights as a participant in a research study.  This person can be reached through: Ethics Office at 709-777-6974. Email at info@hrea.ca
 
 
 <div class="alert alert-info">
@@ -51,83 +82,5 @@ The survey asks 5 questions:
 </div>
 
 
-## {}
-
-### Volunteers and supporters {#contact}
-
-This study relies on strong and diverse community participation. Social media, email, advertising, and word-of-mouth is needed to reach households with school students.
-
-Reasons to support this study are:
-
-- <u>Adds value:</u> students have already completed these rapid antigen tests. Aiding results submission adds value as test results can be combined and communicated to Newfoundlanders and Labradorians;
-
-- <u>Community-building:</u> those who submit results help Newfoundlanders and Labradorians understand COVID-19  in the school-aged community;
-
-- <u>Research:</u> those who submit their data are supporting a research study (see [**here**](#research)).
-
-Volunteers may contribute by: displaying posters in workplaces, businesses, or school bus windows; providing translation support; answering questions; sharing information on social media; writing emails and connecting with communities; and may be required to attend a short training session. For a list of volunteers and supporters (see [**here**](#volunteers)). If you are able to be involved in the study design and analysis please email Dr. Amy Hurford.
 
 
-### Questions
-#### What will you be asked for?
-
-The survey will ask you to provide:
-
-1. the first 3 digits of your postal code (i.e., A1A);
-
-1. Regional Health Authority;
-
-1. For both January 22 and 25, the number of:
-
-+ elementary/middle school students in your household that tested negative;
-
-+ elementary/middle school students in your household that tested positive (symptoms/no symptoms);
-
-+ high school students in your household that tested negative;
-
-+ high school students in your household that tested positive (symptoms/no symptoms);
-
-#### What is the purpose of this study?
-
-The study aims to estimate COVID-19 prevalence on January 22 and 25 for school-aged children. This age group has not been widely-tested in Canada during the Omicron wave as some provinces have restricted PCR testing to only individuals older than 70.
-
-Additionally, we will:
-
-- estimate the proportion of asymptomatic cases for school-aged children infected with the Omicron variant;
-
-- evaluate case reporting accuracy when only PCR test results are available;
-
-- evaluate the geographic distribution of cases;
-
-- use these data to parameterize mathematical models that inform public health policy.
-
-#### How will results be reported to participants?
-Results submission will end on February 8. Before February 11, we will report the following to this website:
-
-- number of household submissions from each Regional Health Authority;
-- percent positivity for each Regional Health Authority;
-- percent positivity for elementary/middle schools and high schools;
-- percent positive test results reported as asymptomatic;
-
-Results will be most informative if a large number of households from many regions submit their results. If you would like to volunteer please [contact us](#contact). 
-
-#### How is your privacy protected?
-No information that can identify your household is submitted. You submit the first 3 digits of your postal code and if the students in your household attend elementary/middle school or high school. The results released publicly on this website will be at the Regional Health Authority and elementary/middle school or high school levels. No data will be reported where there are fewer than 10 positive cases. 
-
-#### Can I report the school?
-No. The purpose of this study is to estimate infection in the population of school-aged children. The school that students' attend cannot be reported. 
-
-#### Why do we not use an existing COVID-19 tracker?
-This submission portal ensures security and anonymity, and is specific for rapid antigen test use for school students on January 22 and 25. Results will be reported at the same url as the submission portal. This maximizes the chance that participants see the results.
-
-#### Can teachers and administrators submit their results?
-No. Teachers and administrators are a small proportion of people in their age group. Collecting data from teachers and administrators will not be sufficient to estimate infection prevalence in their age group.
-
-#### Why are elementary and middle school combined?
-Pediatric vaccinations are for 5-12 year olds, which for many students corresponds to elementary and middle school. Contact matrices used in mathematical models consider age ranges spanning multiple years such that it is not necessary to consider middle school separately. 
-
-#### Should I share this initiative on my social media?
-Yes! The success of this study depends on strong community participation.
-
-#### Supporters and volunteers {#volunteers}
-Memorial University: the Faculties of Science and Education.
