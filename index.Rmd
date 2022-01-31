@@ -11,23 +11,25 @@ fontsize: 12pt
 knitr::include_graphics("mun.jpg")
 ```
 
-<b>TITLE:</b> Submission portal for Rapid Antigen Tests completed January 22 and/or 25	by K-12 students in Newfoundland and Labrador
+<b>TITLE:</b> Submission portal for Rapid Antigen Tests completed January 22 and/or 25 by K-12 students in Newfoundland and Labrador
 
 <b>RESEARCHER:</b> Dr. Amy Hurford
 
 ## {}
 
-You have been invited to take part in a research study.  Taking part in this study is voluntary.  You may choose to take part or you may choose not to take part in this study.  You also may change your mind at any time
+You have been invited to take part in a research study.  Taking part in this study is voluntary. You may choose to take part or you may choose not to take part in this study.  You also may change your mind at any time.
 
 ## {}
 
 **1. Why am I being asked to join this study?**
 
-You are being invited to join this study because the government of Newfoundland and Labrador encouraged K-12 students to [complete two rapid antigen tests](https://www.gov.nl.ca/covid-19/schools-children/school-rapid-testing-program/) prior to returning to school. This study applies to the parents and guardians of K-12 student(s) that completed at least one rapid antigen test on January 22 and/or 25. This study is being done to record the results of these tests. These data will be: (1) reported back to the public (number of submission and % positive results); and (2) used in research to estimate infection prevalence and inform public health recommendations.
+You are being invited to join this study because the government of Newfoundland and Labrador encouraged K-12 students to [complete two rapid antigen tests](https://www.gov.nl.ca/covid-19/schools-children/school-rapid-testing-program/) prior to returning to school. This study applies to the parents and guardians of K-12 student(s) that completed at least one rapid antigen test on January 22 and/or 25. This study is being done to record the results of these tests. These data will be: (1) reported back to the public (number of submissions, % positive results, and % asymptomatic for each Health Regional Authority); and (2) used in research to estimate infection prevalence and inform public health recommendations.
 
 **2. How many people will take part in this study?**
 
 59,452 K-12 student(s) were eligible to [return to school](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-return-to-school-jan-2022-1.6325652) on January 25. Only one survey is to be completed per household. We expect between 2,000-8,000 households to submit their rapid antigen test results.
+
+For reliable results it is necessary that those who are eligible to complete the survey are aware of the opportunity to participate in the research study. It is equally important that those who recorded positive and negative results participate. Furthermore, it is valuable if eligible participants province-wide are equally aware of the opportunity to participate in the research.
 
 **3. How long does it take to complete the survey?**
 
@@ -39,23 +41,23 @@ If you consent to participate in the research study you will be asked 4 question
 
 **5. Are there risks to taking part in this study?**
 
-You may feel fear or anxiety in reporting the rapid antigen test results of the K-12 students in your household. If the identity of individuals reporting positive results is revealed, these individuals may be stigmatized. To minimize these risks participants are asked only to provide the first 3 digits of their postal code and the data will be securely stored.
+You may feel fear or anxiety in reporting the rapid antigen test results of the K-12 student(s) in your household, particularly if a result was positive and you feel a risk of being stigmatized. To minimize these risks participants are asked only to provide the first 3 digits of their postal code and the data will be securely stored. Generally, thousands of households share the same first 3 digits of their postal code, such that your submission is anonymous.
 
 **6.	What are the possible benefits of participating in this study?**
 
-- <u>Adds value:</u> K-12 students have already completed these rapid antigen tests. Providing your results allows for the test data to not be lost. Test results can be combined at the Health Regional Authority level and communicated to Newfoundlanders and Labradorians;
+- <u>Adds value:</u> K-12 students have already completed these rapid antigen tests. Providing your results allows for the rapid antigen test data to not be lost. Test results will be combined at the Health Regional Authority level, and communicated back to Newfoundlanders and Labradorians;
 
-- <u>Community-building:</u> Those who submit results help Newfoundlanders and Labradorians understand COVID-19 in the school-aged community;
+- <u>Informs the community:</u> Those who submit results help Newfoundlanders and Labradorians understand COVID-19 occurrence in the school-aged community on January 22 and 25. Owing to changes in PCR test eligibility on [January 3](https://www.gov.nl.ca/releases/2022/health/0103n02/) the number of COVID-19 cases reported by the Department of Health and Community Services are known to under-estimate COVID-19 in the community. Collecting and analyzing the rapid antigen tests results from K-12 students on January 22 and 25 will help understand the magnitude of this under-estimation.
 
 - <u>Research:</u> These data will be used in research to estimate: infection prevalence and the percentage of asymptomatic cases in K-12 students on January 22 and 25; under-estimation of infection prevalence when only PCR test results are considered; and in mathematical modelling to inform public health policy recommendations.
 
-**7. If I decide to take part in this study, can I stop later**
+**7. If I decide to take part in this study, can I stop later?**
 
 After consenting to participate in the study you are not required to complete or submit it. After submission your answers cannot be withdrawn as it is not possible to identify your submission.
 
 **8.	What are my rights when participating in a research study?**
 
-You have the right to receive all information that could help you make a decision about participating in this study. You also have the right to ask questions about this study at any time and to have them answered to your satisfaction. Your rights to privacy are legally protected by federal and provincial laws that require safeguards to ensure that your privacy is respected. You have the right to be informed of the results of this study once the entire study is complete. Results will be reported at this url before February 15, 2022.
+You have the right to receive all information that could help you make a decision about participating in this study. You also have the right to ask questions about this study at any time and to have them answered to your satisfaction. Your rights to privacy are legally protected by federal and provincial laws that require safeguards to ensure that your privacy is respected. You have the right to be informed of the results of this study once the entire study is complete. Results will be reported at this url (www.mun.ca/science/school-test) before February 15, 2022.
 
 **9. What about my privacy and confidentiality?**
 
@@ -63,8 +65,9 @@ Protecting your privacy is an important part of this study.  If you decide to pa
 
 - The first three digits of your postal code;
 - Your regional health authority;
-- Results of the rapid antigen tests completed by K-12 students in your household on January 22 and 25;
-- Level of school for the test results reported (elementary/middle school or high school).
+- Results of the rapid antigen tests completed by K-12 student(s) in your household on January 22 and/or 25;
+- If a positive test is reported you will be asked to specify if symptoms were experienced.
+- Level of school for the test results reported: elementary/middle school or high school.
 
 **10. What about questions or problems?**
 
@@ -76,7 +79,7 @@ Or you can talk to someone who is not involved with the study at all, but can ad
 <div class="alert alert-info">
 <font size="3"> <font color="black"> <center> **To consent to participate in research and submit your household's rapid antigen test results**
 
-**CLICK HERE**</center>
+**[CLICK HERE](https://mun.az1.qualtrics.com/jfe/form/SV_d70EH1EzJsOrpK6)**</center>
 
 </font size> </font color>
 </div>
